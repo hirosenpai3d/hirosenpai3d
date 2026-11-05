@@ -28,4 +28,4 @@ I create stylized anime/toon 3D animation in Blender, and I build Python tools t
 
 ## 📺 Find me
 
-- YouTube: [Hiro y sus cosas](https://www.youtube.com/@hiroysuscosas)
+- YouTube: [BlenderHiro](https://www.youtube.com/@BlenderHiro)
